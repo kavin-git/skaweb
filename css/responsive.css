@@ -1,0 +1,204 @@
+@media only screen and (min-width:1301px) 
+{
+
+}
+@media only screen and (min-width:1200px) and (max-width: 1300px)
+{
+
+}
+@media only screen and (min-width: 960px) and (max-width: 1024px)
+{
+.navbar-default .navbar-nav > li {margin: 0px 0px 4px 0px !important;}
+.navbar-default .navbar-nav > li > a {font-size: 13px!important;}
+.nav>li>a {padding: 25px 8px 13px 4px !important;}
+.navbar-nav > li a:hover {padding: 25px 8px 13px 4px !important;}
+.logo_right img {height: 68px !important;}
+.navbar-collapse {width: 45% !important;}
+.tit1 {font-size: 19px !important;}
+.tit2 {height: 150px ;}
+
+.text1 {width: 16% !important;}
+.text2 {width: 83% !important;}
+.text1_inn {font-size: 19px!important;;height: 33px!important;}
+
+.add1 {padding-bottom: 18% !important;}
+.social {width: 50px !important;}
+
+/*inner pages*/
+.page-outer {padding: 50px 0px 40px !important;}
+.page-left {margin-left: 8%!important;width: 65%!important;}
+.page-right {width: 23% !important;}
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px)
+{
+.navbar-header {width: 37% !important;}
+.navbar-header img {width: 100% !important;}
+.navbar-collapse {width: 55% !important;padding: 0 !important;}
+.navbar-default .navbar-nav > li {margin: 0px 0px 4px 0px !important;}
+.navbar-default .navbar-nav > li > a {font-size: 13px!important;}
+.nav>li>a {padding: 25px 8px 13px 4px !important;}
+.navbar-nav > li a:hover {padding: 25px 8px 13px 4px !important;}
+.logo_right {width: 8% !important;}
+.logo_right img {height: 68px !important;}
+
+
+.text1 {width: 17% !important;}
+.text2 {width: 83% !important;}
+.text1_inn {font-size: 19px!important;;height: 37px!important;}
+
+.tit1 {font-size: 19px !important;}
+
+#slide {margin-top: 0px !important;}
+
+.add1 {padding-bottom: 18% !important;}
+.social {width: 37px !important;}
+.ico {padding: 0px !important;width: 18% !important;margin: auto !important;}
+.rr {text-align:center !important; }
+/*inner pages*/
+.page-outer {padding: 50px 0px 20px !important;}
+.page-left {width: 75%!important;margin: 10px 11% !important;}
+.page-right {width: 50%!important;margin: 35px 24%!important;}
+.innerbanner{margin-top: 0px !important;}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px)
+{
+.navbar-header {width: 100% !important;}
+.navbar-header img {width: 84% !important;}
+.logo_right {display:none !important;}
+.navbar-collapse {width: 100% !important;}
+.navbar-toggle {margin-left: 15px !important;;margin-right:0px !important;}
+.navbar-default .navbar-nav > li {margin: 0px 8px 0px 8px !important;}
+.nav > li > a {padding: 10px 8px 10px 8px !important;}
+.navbar-nav>li a:hover {padding: 10px 8px 10px 8px !important;}
+
+.text1 {width: 26% !important;}
+.text2 {width: 73% !important;}
+.text1_inn {font-size: 18px!important;;height: 33px!important;}
+
+#slide {margin-top: 0px !important;}
+
+.contact1 {width: 100% !important;}
+.contact2 {width: 100% !important;}
+.rr {text-align:center !important; }
+.ico {padding: 0px !important;width: 41% !important;margin: auto !important;}
+/*inner pages*/
+.page-outer {padding: 50px 0px 20px !important;}
+.page-left {width: 75%!important;margin: 10px 11% !important;}
+.page-right {width: 50%!important;margin: 35px 24%!important;}
+.entry-title {font-size: 22px !important;text-indent: 0px!important;}
+.innerbanner{margin-top: 0px !important;}
+.entry-header h1 {background: url('images/heading1.png') no-repeat center right !important;}
+}
+@media only screen and (min-width: 360px) and (max-width: 479px)
+{
+.navbar-header {width: 100% !important;}
+.navbar-header img {width: 81% !important;}
+.logo_right {display:none !important;}
+.navbar-collapse {width: 100% !important;}
+.navbar-toggle {margin-left: 15px !important;;margin-right:0px !important;}
+.navbar-default .navbar-nav > li {margin: 0px 8px 0px 8px !important;}
+.nav > li > a {padding: 10px 8px 10px 8px !important;}
+.navbar-nav>li a:hover {padding: 10px 8px 10px 8px !important;}
+
+.text1 {width: 33% !important;}
+.text2 {width: 67% !important;}
+.text1_inn {font-size: 18px!important;;height: 33px!important;}
+
+#slide {margin-top: 0px !important;}
+
+.about_inn h1 {font-size: 24px !important;}
+
+.contact1 {width: 100% !important;}
+.contact2 {width: 100% !important;}
+.rr {text-align:center !important; }
+.ico {padding: 0px !important;width: 56% !important;margin: auto !important;}
+
+/*inner pages*/
+.page-outer {padding: 50px 0px 20px !important;}
+.page-left {width: 75%!important;margin: 10px 11% !important;}
+.page-right {width: 50%!important;margin: 35px 24%!important;}
+.innerbanner{margin-top: 0px !important;}
+.entry-title {font-size: 22px !important;text-indent: 0px!important;}
+.entry-header h1 {background: url('images/heading1.png') no-repeat center right !important;}
+}
+
+@media only screen and (min-width: 300px) and (max-width: 359px)
+{
+.navbar-header {width: 100% !important;}
+.navbar-header img {width: 78% !important;}
+.logo_right {display:none !important;}
+.navbar-collapse {width: 100% !important;}
+.navbar-toggle {margin-left: 15px !important;;margin-right:0px !important;}
+.navbar-default .navbar-nav > li {margin: 0px 8px 0px 8px !important;}
+.nav > li > a {padding: 10px 8px 10px 8px !important;}
+.navbar-nav>li a:hover {padding: 10px 8px 10px 8px !important;}
+
+.text1 {width: 24% !important;}
+.text2 {width: 76% !important;}
+.text1_inn {font-size: 14px!important;height: 37px!important;padding: 9px 10px 9px 2px !important;}
+.text2_inn {font-size: 14px!important;padding: 6px 10px 6px 0px!important;}
+
+#slide {margin-top: 0px !important;}
+.about_inn h1 {font-size: 24px !important;}
+
+.contact1 {width: 100% !important;}
+.contact2 {width: 100% !important;}
+.rr {text-align:center !important; }
+
+.add1 {width: 67% !important;}
+.add1 p {font-size: 13px !important;}
+.social {width: 36px !important;}
+.ico {padding: 0px !important;width: 46% !important;margin: auto !important;}
+/*inner pages*/
+.page-outer {padding: 50px 0px 20px !important;}
+.page-left {width: 75%!important;margin: 10px 11% !important;}
+.page-right {width: 50%!important;margin: 35px 24%!important;}
+.entry-title {font-size: 22px !important;text-indent: 0px!important;}
+.innerbanner{margin-top: 0px !important;}
+.entry-header h1 {background: url('images/heading1.png') no-repeat center right !important;}
+}
+
+@media only screen and (max-width: 299px)	
+{
+.navbar-header {width: 100% !important;}
+.navbar-header img {width: 69% !important;}
+.logo_right {display:none !important;}
+.navbar-collapse {width: 100% !important;}
+.navbar-toggle {margin-left: 15px !important;;margin-right:0px !important;}
+.navbar-default .navbar-nav > li {margin: 0px 8px 0px 8px !important;}
+.nav > li > a {padding: 10px 8px 10px 8px !important;}
+.navbar-nav>li a:hover {padding: 10px 8px 10px 8px !important;}
+
+
+.text1 {width: 37% !important;}
+.text2 {width: 63% !important;}
+.text1_inn {font-size: 14px!important;height: 37px!important;padding: 9px 10px 9px 2px !important;}
+.text2_inn {font-size: 14px!important;padding: 6px 10px 6px 0px!important;}
+
+.about_inn h1 {font-size: 18px !important;}
+
+#slide {margin-top: 0px !important;}
+
+.contact1 {width: 100% !important;}
+.contact2 {width: 100% !important;}
+.rr {text-align:center !important; }
+
+.add1 {width: 67% !important;}
+.add1 p {font-size: 13px !important;}
+.social {width: 37px !important;}
+.ico {padding: 0px !important;width: 72% !important;margin: auto !important;}
+
+/*inner pages*/
+.page-outer {padding: 50px 0px 20px !important;}
+.page-left {width: 75%!important;margin: 10px 11% !important;}
+.page-right {width: 60%!important;margin: 35px 24%!important;}
+.entry-title {font-size: 22px !important;text-indent: 0px!important;}
+.innerbanner{margin-top: 0px !important;}
+.entry-header h1 {background: url('images/heading1.png') no-repeat center right !important;}
+}
+
+
+
